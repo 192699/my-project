@@ -1,0 +1,2 @@
+# CollegeBlogging
+For College purpose
